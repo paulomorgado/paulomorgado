@@ -1,16 +1,19 @@
-### Hi there 👋
+Account age: **10** years
 
-<!--
-**paulomorgado/paulomorgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pushed **277** commits
 
-Here are some ideas to get you started:
+Opened **317** issues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Submitted **130** pull requests
+
+Received **7** stars
+
+Own **15** repositories
+
+Contributed to **43** public repositories
+
+Top most used languages across your repositories:
+
+![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B199.2%25)
+![Smalltalk](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23596706&message=Smalltalk%EF%B8%B10.6%25)
+![Batchfile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23C1F12E&message=Batchfile%EF%B8%B10.1%25)
