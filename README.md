@@ -2,11 +2,11 @@ Account age: **10** years
 
 Pushed **332** commits
 
-Opened **361** issues
+Opened **362** issues
 
 Submitted **157** pull requests
 
-Received **23** stars
+Received **22** stars
 
 Own **17** repositories
 
