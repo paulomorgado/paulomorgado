@@ -10,7 +10,7 @@ Received **24** stars
 
 Own **18** repositories
 
-Contributed to **49** public repositories
+Contributed to **47** public repositories
 
 Top most used languages across your repositories:
 
