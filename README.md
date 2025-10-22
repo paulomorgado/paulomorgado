@@ -1,23 +1,25 @@
-Account age: **14** years
+# Hi 👋, I'm Paulo Morgado
 
-Pushed **423** commits
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulomorgado&label=Profile views&color=0e75b6&style=flat" alt="paulomorgado" /> </p>
 
-Opened **539** issues
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paulomorgado" alt="paulomorgado" /></a> </p>
 
-Submitted **289** pull requests
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/paulomorgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="paulomorgado" height="30" width="40" /></a>
+<a href="https://dev.to/paulomorgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="paulomorgado" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paulomorgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulomorgado" height="30" width="40" /></a>
+<a href="https://twitter.com/paulomorgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paulomorgado" height="30" width="40" /></a>
+<a href="https://medium.com/@paulomorgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@paulomorgado" height="30" width="40" /></a>
+<a href="https://youtube.com/@PauloMorgado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@PauloMorgado" height="30" width="40" /></a>
+</p>
 
-Received **31** stars
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a></p>
 
-Own **22** repositories
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulomorgado&show_icons=true&locale=en&layout=compact" alt="paulomorgado" /></p>
 
-Contributed to **43** public repositories
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paulomorgado&show_icons=true&locale=en" alt="paulomorgado" /></p>
 
-Top most used languages across your repositories:
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paulomorgado&" alt="paulomorgado" /></p>
 
-![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B196.3%25)
-![Liquid](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2367b8de&message=Liquid%EF%B8%B11.4%25)
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B11.1%25)
-![Smalltalk](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23596706&message=Smalltalk%EF%B8%B10.3%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23663399&message=CSS%EF%B8%B10.3%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.2%25)
-![Batchfile](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23C1F12E&message=Batchfile%EF%B8%B10%25)
